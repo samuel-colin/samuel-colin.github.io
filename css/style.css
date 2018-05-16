@@ -6,19 +6,19 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #5aa2fa; /* Green */
     color: #ffffff;
 }
 .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
+    background-color: #393e49; /* Dark Blue */
     color: #ffffff;
 }
 .bg-3 { 
     background-color: #ffffff; /* White */
-    color: #555555;
+    color: #393e49;
 }
 .bg-4 { 
-    background-color: #2f2f2f; /* Black Gray */
+    background-color: #393e49; /* Black Gray */
     color: #fff;
 }
 .container-fluid {
@@ -35,5 +35,5 @@ p {font-size: 16px;}
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #5aa2fa !important;
 }
