@@ -1,6 +1,12 @@
 # samuel-colin.github.io
 
-## Project setup
+Personal web site :)
+
+## Tech
+
+[VueJS 3.2.13](https://vuejs.org/) and [Materialize 3.0.1](https://materializecss.com/)
+
+### Project setup
 ```
 npm install
 ```
@@ -20,5 +26,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
