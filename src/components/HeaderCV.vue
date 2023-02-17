@@ -74,7 +74,7 @@
     }
     
     img.responsive-img {
-      max-width: 150px !important;
+      max-width: 100px !important;
       height: 20% !important;
     }
 

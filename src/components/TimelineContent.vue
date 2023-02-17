@@ -19,7 +19,7 @@
             <p class="modal-description" v-html="descriptionPopUp"></p>
             <p v-if="techList" class="modal-tech">
               <i class="material-icons icon_alter">settings_applications</i>
-              <span>   {{ techList }}</span>
+              <span v-html="techList"></span>
             </p>
           </div>
           <div class="modal-footer">
@@ -61,6 +61,7 @@
 
   .icon_alter {
     vertical-align: bottom;
+    margin-right: 10px;
   }
 
   .modal-logo img {

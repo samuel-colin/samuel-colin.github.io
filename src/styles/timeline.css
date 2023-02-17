@@ -73,6 +73,13 @@
   .timeline .timeline-badge img {
   width: 60px;
   }
+
+  .timeline .tech {
+    background: gray;
+    color: white;
+    border-radius: 10px;
+    padding: 2px 8px 2px 8px;
+  }
   
   @media (max-width: 600px) {
     .timeline .timeline-event .timeline-content {
