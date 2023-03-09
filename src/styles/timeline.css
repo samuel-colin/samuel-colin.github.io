@@ -71,7 +71,11 @@
   line-height: 60px;
   }
   .timeline .timeline-badge img {
-  width: 60px;
+    width: 60px;
+  }
+
+  .timeline .timeline-badge a {
+    float: none;
   }
 
   .timeline .tech {
@@ -79,6 +83,7 @@
     color: white;
     border-radius: 10px;
     padding: 2px 8px 2px 8px;
+    margin-right: 5px;
   }
   
   @media (max-width: 600px) {

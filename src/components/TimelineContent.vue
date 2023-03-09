@@ -12,14 +12,18 @@
 
         <div v-if="id" v-bind:id="id" class="modal bottom-sheet">
           <div class="modal-content">
-            <div class="modal-logo"><img :src="require('@/assets/' + linkImg + '')" class="circle"/></div>
+            <div class="modal-logo">
+              <a :href="webSite" target="blank"><img :src="require('@/assets/' + linkImg + '')" class="circle"/></a>
+            </div>
             <h4>{{ titleJob }}</h4>
             <h5><i class="material-icons icon_alter">place</i>{{ subtitleJob }}</h5>
             <h5><i class="material-icons icon_alter">today</i>  {{ durationJob }}</h5>
             <p class="modal-description" v-html="descriptionPopUp"></p>
             <p v-if="techList" class="modal-tech">
               <i class="material-icons icon_alter">settings_applications</i>
-              <span v-html="techList"></span>
+              <span v-for="techElt in techList" :key="techElt">
+                <span class='tech'>{{techElt}}</span>
+              </span>
             </p>
           </div>
           <div class="modal-footer">
@@ -28,7 +32,9 @@
         </div>
       </div>
 
-      <div v-if="linkImg" class="timeline-badge white white-text"><img :src="require('@/assets/' + linkImg + '')" class="circle"/></div>
+      <div v-if="linkImg" class="timeline-badge white white-text">
+        <a :href="webSite" target="blank"><img :src="require('@/assets/' + linkImg + '')" class="circle"/></a>
+      </div>
       
       <div v-else class="timeline-badge white white-text"><i class="material-icons icon_alter">today</i></div>
     </div>
@@ -44,7 +50,8 @@
       durationJob: String, 
       descriptionPopUp: String,
       linkImg: String,
-      techList: String
+      techList: Array,
+      webSite: String
     }
   }
 </script>
