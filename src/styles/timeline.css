@@ -79,11 +79,11 @@
   }
 
   .timeline .tech {
-    background: gray;
+    background: #808080ba;
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 2px 8px 2px 8px;
-    margin-right: 5px;
+    margin-right: 2px;
   }
   
   @media (max-width: 600px) {
