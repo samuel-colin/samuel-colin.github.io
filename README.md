@@ -1,28 +1,41 @@
 # samuel-colin.github.io
 
-Personal web site :)
+Site Web de Samuel Colin :)
 
-## Tech
+## Environnement Technique
 
-[VueJS 3.2.13](https://vuejs.org/) and [Materialize 3.0.1](https://materializecss.com/)
+Le site a été créé en [VueJS 3.2.13](https://vuejs.org/) avec [Materialize 3.0.1](https://materializecss.com/).
 
-### Project setup
+## Build du Projet
+
+Téléchargement des librairies
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+Lancement du serveur en local
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilation et minifaction pour la Production
 ```
 npm run build
 ```
-
-### Lints and fixes files
+Copie des fichiers de Production dans le répertoire _/docs_
 ```
-npm run lint
+cp ./dist ./docs
+```
+Merge des développements sur la branche _gh-pages_ (permet le déploiement sur le site GitHub)
+```
+git merge gh-pages
 ```
 
+## Déploiement sur Docker
+Création de l'image Docker (Serveurs NodeJS et Apache)
+```
+docker build -t vuejs-samuel-colin/samuel-colin-app .
+```
+Création du conteneur à partir de l'image
+```
+docker run -it -p 8092:8080 --rm --name samuel-colin-app vuejs-samuel-colin/samuel-colin-app 
+```
