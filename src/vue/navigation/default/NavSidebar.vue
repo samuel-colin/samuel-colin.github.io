@@ -26,7 +26,7 @@
                             :class="navigation.isSidebarExpanded() ? '' : 'mb-3'"/>
 
             <!-- Credits -->
-            <div class="nav-sidebar-footer-credits text-2 mt-2 pt-1 mb-2 mb-xxl-3">
+            <div class="nav-sidebar-footer-credits text-1 mt-2 pt-5 mb-2 mb-xxl-3">
                 <span v-html="profileData['locales']['credits']"/>
             </div>
         </div>

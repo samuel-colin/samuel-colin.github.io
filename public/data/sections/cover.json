@@ -17,7 +17,8 @@
         "socialCircles": [
             "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}",
-            "@link{profile.contact.bluesky}"
+            "@link{profile.contact.bluesky}",
+            "@link{profile.contact.stackoverflow}"
         ],
 
         "contactListItems": [
