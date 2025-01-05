@@ -1,0 +1,58 @@
+{
+    "name": "Samuel Parlant Colin",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Senior Fullstack Software (Stay-at-home dad)"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Développeur Fullstasck Sénior (Papa au foyer)"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "123 Main Street, Cupertino, CA 01234",
+            "valueShort": "Lyon (69), FRANCE",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "samuel.cln@proton.me",
+            "valueShort": "samuel.cln@proton.me",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:samuel.cln@proton.me"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@samuel-colin",
+            "valueShort": "@samuel-colin",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/samuel-colin"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@colin-samuel",
+            "valueShort": "@colin-samuel",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/colin-samuel/"
+        },
+
+        "bluesky": {
+            "id": "bluesky",
+            "value": "@samuel-colin.bsky.social",
+            "valueShort": "@samuel-colin.bsky.social",
+            "faIcon": "fa fa-external-link",
+            "href": "https://bsky.app/profile/samuel-colin.bsky.social"
+        }
+    }
+}
