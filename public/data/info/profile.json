@@ -1,15 +1,16 @@
 {
-    "name": "Samuel Parlant Colin",
+    "name": "Samuel PARLANT COLIN",
     "profilePictureUrl": "images/pictures/avatar.png",
+    "profilePictureAlt": "Photo de profil de Samuel",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "",
             "role": "Senior Fullstack Software (Stay-at-home dad)"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "",
             "role": "Développeur Fullstasck Sénior (Papa au foyer)"
         }
     },
@@ -17,7 +18,7 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
+            "value": "Lyon (69), FRANCE",
             "valueShort": "Lyon (69), FRANCE",
             "faIcon": "fa-solid fa-city",
             "href": null
@@ -51,7 +52,7 @@
             "id": "bluesky",
             "value": "@samuel-colin.bsky.social",
             "valueShort": "@samuel-colin.bsky.social",
-            "faIcon": "fa fa-external-link",
+            "faIcon": "fa fa-hashtag",
             "href": "https://bsky.app/profile/samuel-colin.bsky.social"
         }
     }

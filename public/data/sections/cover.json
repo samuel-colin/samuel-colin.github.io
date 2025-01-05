@@ -1,15 +1,15 @@
 {
     "locales": {
         "en": {
-            "welcome": "Welcome to my <span class='text-primary'>Resume</span> !",
+            "welcome": "Welcome !",
             "welcomeShort": "Welcome !",
-            "bio": "With 8 years as a UX designer, I excel in user-centric interfaces. My passion for empathetic design drives me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
+            "bio": ""
         },
 
         "fr": {
-            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span> !",
+            "welcome": "Bienvenue !",
             "welcomeShort": "Bienvenue !",
-            "bio": "Avec 8 ans en tant que designer UX, j'excele dans les interfaces centrées sur l'utilisateur. Ma passion pour le design empathique me pousse à créer des expériences numériques délicieuses et innovantes. Collaborons ensemble pour créer quelque chose d'extraordinaire."
+            "bio": ""
         }
     },
 

@@ -5,7 +5,7 @@
             <!-- Dropdown Toggle Button -->
             <button class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                 <!-- Selected Flag Icon -->
-                <img :alt="selectedLanguage['name']"
+                <img :alt="selectedLanguage['alt']"
                      :src="selectedLanguage['flagUrl']"
                      class="img-fluid img-selected-language-flag">
 
@@ -21,7 +21,7 @@
                 <li v-for="lang in availableLanguages">
                     <button class="dropdown-item" @click="_onLanguageSelected(lang)">
                         <!-- Language Flag Icon -->
-                        <img :alt="lang['name']"
+                        <img :alt="lang['alt']"
                              :src="lang['flagUrl']"
                              class="img-fluid img-language-flag">
 

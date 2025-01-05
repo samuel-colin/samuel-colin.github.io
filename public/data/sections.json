@@ -53,14 +53,6 @@
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
-        },
-
-        {
-            "id": "contact",
-            "categoryId": "more",
-            "component": "ContactSection",
-            "jsonPath": "data/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square"
         }
     ]
 }

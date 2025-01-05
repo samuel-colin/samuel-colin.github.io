@@ -10,7 +10,7 @@
         <div class="loader-full-screen-content" v-show="didReachStep(Steps.SHOWING_LOGO)">
             <!-- Logo -->
             <ImageView  :src="'images/icons/resume.ico'"
-                        :alt="'Logo'"
+                        :alt="'Loader'"
                         :ignore-on-image-count="true"
                         ref="uiLogo"
                         class="img-fluid img-logo"/>

@@ -10,13 +10,15 @@
         </div>
 
         <!-- Content -->
-        <div class="content-column" :class="navigation.isSidebarExpanded() ? '' : 'content-column-expand'">
-            <!-- Navigation Header (Small Screens) -->
-            <NavHeader @link-clicked="_navigateToSection"/>
+        <main>
+            <div class="content-column" :class="navigation.isSidebarExpanded() ? '' : 'content-column-expand'">
+                <!-- Navigation Header (Small Screens) -->
+                <NavHeader @link-clicked="_navigateToSection"/>
 
-            <!-- Website Sections -->
-            <slot/>
-        </div>
+                <!-- Website Sections -->
+                <slot/>
+            </div>
+        </main>
 
         <!-- Navigation Category Tabs (Small Screens) -->
         <div class="nav-tabs-column">

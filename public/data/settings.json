@@ -4,13 +4,15 @@
             "name": "English",
             "id": "en",
             "flagUrl": "images/flags/en.png",
-            "default": true
+            "default": true,
+            "alt": "English flag"
         },
 
         {
             "name": "Français",
             "id": "fr",
-            "flagUrl": "images/flags/fr.png"
+            "flagUrl": "images/flags/fr.png",
+            "alt": "Drapeau Français"
         }
     ],
 

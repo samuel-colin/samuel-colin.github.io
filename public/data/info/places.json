@@ -1,72 +1,10 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Adobe Inc."}
-        }
-    },
-
-    "apple": {
-        "logoUrl": "images/places/logo-apple.png",
-        "faIcon": "fab fa-apple",
-        "locales": {
-            "en": {"name": "Apple Inc."}
-        }
-    },
-
-    "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Coursera"}
-        }
-    },
-
-    "forbes": {
-        "logoUrl": null,
-        "faIcon": "fa-solid fa-newspaper",
-        "locales": {
-            "en": {"name": "Forbes"}
-        }
-    },
-
-    "google": {
-        "logoUrl": null,
-        "faIcon": "fab fa-google",
-        "locales": {
-            "en": {"name": "Google"}
-        }
-    },
-
-    "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
-        "faIcon": "fas fa-university",
-        "locales": {
-            "en": {"name": "Harvard University"},
-            "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
-            "zh": {"name": "哈佛大学"}
-        }
-    },
-
-    "paris": {
-        "logoUrl": "images/places/logo-paris-university.png",
-        "faIcon": "fas fa-university",
-        "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
-        }
-    },
-
     "ubo": {
         "logoUrl": "images/places/logo-ubo.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "UBO - Brest, FRANCE"},
-            "fr": {"name": "Université de Bretagne Occidentale - Brest (29), FRANCE"}
+            "en": {"name": "UBO - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "Université de Bretagne Occidentale - Brest (29), FRANCE", "alt": "Logo de l'UBO"}
         }
     },
 
@@ -74,8 +12,8 @@
         "logoUrl": "images/places/logo-univ-angers.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "University of Angers, FRANCE"},
-            "fr": {"name": "Univesité d'Angers (49), FRANCE"}
+            "en": {"name": "University of Angers, FRANCE", "alt": ""},
+            "fr": {"name": "Univesité d'Angers (49), FRANCE", "alt": "Logo de l'université d'Angers"}
         }
     },
 
@@ -83,8 +21,8 @@
         "logoUrl": "images/places/logo-lycee.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Blaise Pascal HighSchool - Segré - FRANCE"},
-            "fr": {"name": "Lycée Blaise Pascal - Segré (49) - FRANCE"}
+            "en": {"name": "Blaise Pascal HighSchool - Segré, FRANCE", "alt": ""},
+            "fr": {"name": "Lycée Blaise Pascal - Segré (49), FRANCE", "alt": "Logo signifiant la notion d'école"}
         }
     },
 
@@ -92,25 +30,98 @@
         "logoUrl": "images/places/logo-secnum.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "ANSSI - French Agency for Information Systems Security"},
-            "fr": {"name": "ANSSI - Agence nationale de la sécurité des systèmes d'information"}
+            "en": {"name": "ANSSI - French Agency for Information Systems Security", "alt": ""},
+            "fr": {"name": "ANSSI - Agence nationale de la sécurité des systèmes d'information", "alt": "Logo de l'agence ANSSI"}
         }
     },
 
     "dvpez-com": {
         "logoUrl": "images/places/logo-dvpez-com.png",
-        "faIcon": "fa fa-house-laptop",
+        "faIcon": "fa fa-newspaper",
         "locales": {
-            "en": {"name": "Developpez.com"},
-            "fr": {"name": "Developpez.com"}
+            "en": {"name": "Developpez.com", "alt": ""},
+            "fr": {"name": "Developpez.com", "alt": "Logo du site internet Developpez.com"}
         }
     },
 
-    "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
-        "faIcon": "fas fa-paint-brush",
+    "cgi": {
+        "logoUrl": "images/places/logo-cgi.png",
+        "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "CGI - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "CGI - Brest (29), FRANCE", "alt": "Logo de la société CGI"}
+        }
+    },
+
+    "sopra": {
+        "logoUrl": "images/places/logo-soprasteria.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Sopra Stéria - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "Sopra Stéria - Rennes (35), FRANCE", "alt": "Logo de la société Sopra Stéria"}
+        }
+    },
+
+    "asi-brest": {
+        "logoUrl": "images/places/logo-asi.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "ASI - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "ASI - Brest (29), FRANCE", "alt": "Logo de la société ASI"}
+        }
+    },
+
+    "asi-rennes": {
+        "logoUrl": "images/places/logo-asi.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "ASI - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "ASI - Rennes (35), FRANCE"}, "alt": "Logo de la société ASI"
+        }
+    },
+
+    "adventiel": {
+        "logoUrl": "images/places/logo-adventiel.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adventiel - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "Adventiel - Rennes (35), FRANCE", "alt": "Logo de la société Adventiel"}
+        }
+    },
+
+    "younup": {
+        "logoUrl": "images/places/logo-younup.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Younup - Lyon, FRANCE", "alt": ""},
+            "fr": {"name": "Younup - Lyon (69), FRANCE", "alt": "Logo de la société Younup"}
+        }
+    },
+
+    "pause-parentale": {
+        "logoUrl": "images/places/logo-pause_parentale.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "At home - Lyon, FRANCE", "alt": ""},
+            "fr": {"name": "À la maison - Lyon (69), FRANCE", "alt": "Logo représentant un parent portant son enfant"}
+        }
+    },
+
+    "youtube": {
+        "logoUrl": "images/places/logo-youtube.png",
+        "faIcon": "fa fa-video",
+        "locales": {
+            "en": {"name": "Youtube", "alt": ""},
+            "fr": {"name": "Youtube", "alt": "Lien vers une vidéo Youtube"}
+        }
+    },
+
+    "perso": {
+        "logoUrl": "images/places/logo-pause_parentale.png",
+        "faIcon": "fa fa-house",
+        "locales": {
+            "en": {"name": "Homemade", "alt": ""},
+            "fr": {"name": "Fait maison", "alt": "Image signifiant Fait maison"}
         }
     }
 }

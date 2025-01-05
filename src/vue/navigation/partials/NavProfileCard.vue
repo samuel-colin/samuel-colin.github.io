@@ -3,14 +3,14 @@
     <div class="nav-profile-card" :class="shrink ? 'nav-profile-card-shrink' : ''">
         <!-- Avatar -->
         <ImageView :src="props.profileData['profilePictureUrl']"
-                   :alt="props.profileData['name']"
+                   :alt="props.profileData['profilePictureAlt']"
                    class="img-pfp"/>
 
         <!-- Name -->
         <h4 class="nav-profile-card-title lead-2">{{ props.profileData['name'] }}</h4>
 
         <!-- Role -->
-        <h6 class="nav-profile-card-subtitle text-4 mb-1">{{ props.profileData['locales']['role'] }}</h6>
+        <h5 class="nav-profile-card-subtitle text-4 mb-1">{{ props.profileData['locales']['role'] }}</h5>
     </div>
 </template>
 
@@ -74,7 +74,6 @@ const props = defineProps({
 
 .nav-profile-card-title {
     margin-top:1rem;
-    text-transform: uppercase;
     letter-spacing: 0.1px;
     color: $white;
 }

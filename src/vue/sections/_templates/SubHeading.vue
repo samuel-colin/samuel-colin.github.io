@@ -2,10 +2,10 @@
     <!-- Section Subheading -->
     <div class="section-subheading">
         <!-- Title -->
-        <h3 class="section-subheading-title mb-2 fw-bold text-uppercase">
+        <h2 class="section-subheading-title mb-2 fw-bold text-uppercase">
             <span>{{props.title}}</span>
             <i v-if="props.faIcon" :class="props.faIcon" class="ms-2"/>
-        </h3>
+        </h2>
 
         <!-- Divider -->
         <hr class="solid-divider ms-1 me-1 mb-3" :class="{'mb-sm-4': !props.description}">

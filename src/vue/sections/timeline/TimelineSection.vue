@@ -9,7 +9,7 @@
                     <!-- If item has an image... -->
                     <ImageView v-if="item['place'] && item['place']['logoUrl']"
                                :src="item['place']['logoUrl']"
-                               :alt="item['place']['locales']['name']"
+                               :alt="item['place']['locales']['alt']"
                                class="timeline-item-img img-fluid rounded-circle"/>
 
                     <!-- Fallback, use font awesome icon... -->
@@ -23,11 +23,11 @@
                     <div class="timeline-item-content-header">
                         <!-- Title + Institution Flex Column -->
                         <div class="flex-column-title">
-                            <h4 class="timeline-item-title fw-bold" v-html="item['locales']['title']"/>
-                            <h6 class="timeline-item-subtitle text-light-6 text-3">
+                            <h2 class="timeline-item-title fw-bold text-5" v-html="item['locales']['title']"/>
+                            <h3 class="timeline-item-subtitle text-light-6 text-3">
                                 <i class="fa-solid fa-building me-2 ms-2"/>
                                 <span>{{item['place'] ? item['place']['locales']['name'] : ''}}</span>
-                            </h6>
+                            </h3>
                         </div>
 
                         <div class="flex-column-date">
