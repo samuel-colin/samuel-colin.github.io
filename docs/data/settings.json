@@ -4,29 +4,19 @@
             "name": "English",
             "id": "en",
             "flagUrl": "images/flags/en.png",
-            "default": true
-        },
-
-        {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
+            "default": true,
+            "alt": "English flag"
         },
 
         {
             "name": "Français",
             "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
-
-        {
-            "name": "中文",
-            "id": "zh",
-            "flagUrl": "images/flags/zh.png"
+            "flagUrl": "images/flags/fr.png",
+            "alt": "Drapeau Français"
         }
     ],
 
-    "preloaderEnabled": true,
-    "contactFormEnabled": true,
-    "sidebarShrinkingEnabled": false
+    "preloaderEnabled": false,
+    "contactFormEnabled": false,
+    "sidebarShrinkingEnabled": true
 }
