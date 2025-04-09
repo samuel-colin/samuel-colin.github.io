@@ -40,7 +40,7 @@ jobs:
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add docs
-          git commit -m "Automatic Deploy"
+          git commit -m "Automatic Build"
           git push
 
   deploy:
@@ -66,7 +66,7 @@ jobs:
         run: |
           git fetch origin
           git checkout main
-          git merge origin/develop --allow-unrelated-histories -X theirs
+          git merge origin/develop --allow-unrelated-histories -X theirs -m "Automatic Deploy"
 
       # Étape 4 : Pousser les modifications
       - name: Push changes
