@@ -1,0 +1,67 @@
+{
+    "name": "Samuel PARLANT COLIN",
+    "profilePictureUrl": "images/pictures/avatar.png",
+    "profilePictureAlt": "Photo de profil de Samuel",
+
+    "locales": {
+        "en": {
+            "credits": "",
+            "role": "Senior Fullstack Software (Stay-at-home dad)"
+        },
+
+        "fr": {
+            "credits": "Accessibilité Partielle <br/> <i>Testé avec <a href='https://wave.webaim.org/extension/' target='_blank'>WAVE</a> et <a href='https://github.com/Tanaguru/webextension' target='_blank'>Tanaguru webext</a></i>",
+            "role": "Développeur Fullstack Sénior (Papa au foyer)"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Lyon (69), FRANCE",
+            "valueShort": "Lyon (69), FRANCE",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "samuel.cln@proton.me",
+            "valueShort": "samuel.cln@proton.me",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:samuel.cln@proton.me"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@samuel-colin",
+            "valueShort": "@samuel-colin",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/samuel-colin"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@colin-samuel",
+            "valueShort": "@colin-samuel",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/colin-samuel/"
+        },
+
+        "bluesky": {
+            "id": "bluesky",
+            "value": "@samuel-colin.bsky.social",
+            "valueShort": "@samuel-colin.bsky.social",
+            "faIcon": "fa fa-hashtag",
+            "href": "https://bsky.app/profile/samuel-colin.bsky.social"
+        },
+
+        "stackoverflow": {
+            "id": "stackoverflow",
+            "value": "@samuel",
+            "valueShort": "@samuel",
+            "faIcon": "fa fa-hashtag",
+            "href": "https://stackoverflow.com/users/3455763/samuel"
+        }
+    }
+}

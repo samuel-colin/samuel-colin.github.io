@@ -1,0 +1,29 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome !",
+            "welcomeShort": "Welcome !",
+            "bio": ""
+        },
+
+        "fr": {
+            "welcome": "Bienvenue !",
+            "welcomeShort": "Bienvenue !",
+            "bio": ""
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}",
+            "@link{profile.contact.bluesky}",
+            "@link{profile.contact.stackoverflow}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}"
+        ]
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_cgi",
+            "place": "@link{places.cgi}",
+            "period": ["2012/04", "2013/08"],
+            "locales": {
+                "en": {
+                    "title": "Oracle Application Engineer",
+                    "description": "",
+                    "tags": ["Oracle Database", "PL/SQL", "Linux OS"]
+                },
+                "fr": {
+                    "title": "Ingénieur Oracle Application",
+                    "description": "Développements dans le cadre d’une migration de version d’un ERP Oracle Application.",
+                    "tags": ["Base de données Oracle", "PL/SQL", "Environnements Linux"]
+                }
+            }
+        },
+        {
+            "id": "experience_sopra_1",
+            "place": "@link{places.sopra}",
+            "period": ["2013/09", "2015/06"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Python", "BPMN 2.0", "Angular JS", "Microsoft PowerShell", "Microsoft SharePoint API"]
+                },
+                "fr": {
+                    "title": "Ingénieur Développement",
+                    "description": "Développements divers sur des outils internes ou pour des clients du secteur public.",
+                    "tags": ["JavaJEE", "Python", "BPMN 2.0", "Angular JS", "Microsoft PowerShell", "Microsoft SharePoint API"]
+                }
+            }
+        },
+        {
+            "id": "experience_sopra_2",
+            "place": "@link{places.sopra}",
+            "period": ["2015/07", "2016/12"],
+            "locales": {
+                "en": {
+                    "title": "Java JEE Software Engineer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Spring MVC", "Maven", "Angular JS", "Jenkins"]
+                },
+                "fr": {
+                    "title": "Ingénieur Java JEE",
+                    "description": "Développements Back-End Java JEE sur un outil de gestion de situations stratégiques pour un client du secteur public.",
+                    "tags": ["JavaJEE", "Spring MVC", "Maven", "Angular JS", "Jenkins"]
+                }
+            }
+        },
+        {
+            "id": "experience_asi_brest",
+            "place": "@link{places.asi-brest}",
+            "period": ["2017/03", "2018/02"],
+            "locales": {
+                "en": {
+                    "title": "Scrum Master & Java JEE Software Engineer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Spring Boot", "Méthodologie Agile", "Microservices", "REST API"]
+                },
+                "fr": {
+                    "title": "Scrum Master & Ingénieur Java JEE",
+                    "description": "Dans le cadre de la création de la néo-banque 'Au max' par le Crédit Mutuel Arkéa, j'ai eu le rôle de ScrumMaster et de développeur au sein d'une des équipes Back-End",
+                    "tags": ["JavaJEE", "Spring Boot", "Méthodologie Agile", "Microservices", "REST API"]
+                }
+            }
+        },
+        {
+            "id": "experience_asi_rennes",
+            "place": "@link{places.asi-rennes}",
+            "period": ["2018/03", "2019/08"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Spring Boot", "Méthodologie Agile", "Microservices", "REST API"]
+                },
+                "fr": {
+                    "title": "Concepteur Réalisateur",
+                    "description": "Concepteur Réalisateur dans le cadre de plusieurs projets de TMA dans l'environnement technique JEE. Développeur pour un progiciel de la société MGDIS.",
+                    "tags": ["JavaJEE", "Angular JS", "Angular 4", "NodeJS"]
+                }
+            }
+        },
+        {
+            "id": "experience_adventiel_1",
+            "place": "@link{places.adventiel}",
+            "period": ["2019/09", "2022/12"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Spring Boot", "Liferay", "Envox", "PostgreSQL Database", "Oracle Database"]
+                },
+                "fr": {
+                    "title": "Concepteur Réalisateur",
+                    "description": "Intervention sur différents projets pour des clients du monde de l'Agriculture et de l'Agroalimentaire (SARIA, ATEMAX, DENKAVIT et INNOVAL).",
+                    "tags": ["JavaJEE", "Spring Boot", "Liferay", "Envox", "BDD PostgreSQL", "BDD Oracle"]
+                }
+            }
+        },
+        {
+            "id": "experience_adventiel_2",
+            "place": "@link{places.adventiel}",
+            "period": ["2019/09", "2022/12"],
+            "locales": {
+                "en": {
+                    "title": "Lead Developer",
+                    "description": "",
+                    "tags": ["JavaJEE", "Spring Boot", "PostgreSQL", "BackboneJS", "Junit (Units Tests)", "Mockito (Integrations Tests)"]
+                },
+                "fr": {
+                    "title": "Lead Dev",
+                    "description": "Lead Dev sur le projet <a href='https://idele.fr/detail-article/cap2err'>CAP'2ER</a> pour le client <a href='https://idele.fr/'>IDELE</a>. Au sein d'une équipe de 10 personnes, mon rôle était d'accompagner l'équipe techniquement et fonctionnellement et d'être référent.",
+                    "tags": ["JavaJEE", "Spring Boot", "BDD PostgreSQL", "BackboneJS", "Junit (Tests Unitaires)", "Mockito (Tests d'intégration)"]
+                }
+            }
+        },
+        {
+            "id": "experience_younup",
+            "place": "@link{places.younup}",
+            "period": ["2023/01", "2024/11"],
+            "locales": {
+                "en": {
+                    "title": "Senior Fullstack Developer",
+                    "description": "",
+                    "tags": ["JavaJEE", "MySQL", "PHP", "Srping Framework", "Docker"]
+                },
+                "fr": {
+                    "title": "Développeur Senior Fullstack",
+                    "description": "Client <a href='https://www.april.fr/'>April</a> (Courtier en assurances)",
+                    "tags": ["JavaJEE", "MySQL", "PHP", "Srping Framework", "Docker"]
+                }
+            }
+        },
+        {
+            "id": "experience_pause_parentale",
+            "place": "@link{places.pause-parentale}",
+            "period": ["2024/12", "2027/09"],
+            "locales": {
+                "en": {
+                    "title": "Stay-at-home Dad",
+                    "description": "",
+                    "tags": []
+                },
+                "fr": {
+                    "title": "Père au foyer",
+                    "description": "J'accompagne ma fille née en 2024 dans les premières années de sa vie.",
+                    "tags": []
+                }
+            }
+        }
+    ]
+}

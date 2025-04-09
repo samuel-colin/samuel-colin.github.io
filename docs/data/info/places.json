@@ -1,0 +1,127 @@
+{
+    "ubo": {
+        "logoUrl": "images/places/logo-ubo.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "UBO - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "Université de Bretagne Occidentale - Brest (29), FRANCE", "alt": "Logo de UBO"}
+        }
+    },
+
+    "univ-angers": {
+        "logoUrl": "images/places/logo-univ-angers.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "University of Angers, FRANCE", "alt": ""},
+            "fr": {"name": "Univesité d'Angers (49), FRANCE", "alt": "Logo université d'Angers"}
+        }
+    },
+
+    "education": {
+        "logoUrl": "images/places/logo-lycee.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Blaise Pascal HighSchool - Segré, FRANCE", "alt": ""},
+            "fr": {"name": "Lycée Blaise Pascal - Segré (49), FRANCE", "alt": "Logo signifiant la notion d'école"}
+        }
+    },
+
+    "secnum": {
+        "logoUrl": "images/places/logo-secnum.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "ANSSI - French Agency for Information Systems Security", "alt": ""},
+            "fr": {"name": "ANSSI - Agence nationale de la sécurité des systèmes d'information", "alt": "Logo de l'agence ANSSI"}
+        }
+    },
+
+    "dvpez-com": {
+        "logoUrl": "images/places/logo-dvpez-com.png",
+        "faIcon": "fa fa-newspaper",
+        "locales": {
+            "en": {"name": "Developpez.com", "alt": ""},
+            "fr": {"name": "Developpez.com", "alt": "Logo du site internet Developpez.com"}
+        }
+    },
+
+    "cgi": {
+        "logoUrl": "images/places/logo-cgi.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "CGI - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "CGI - Brest (29), FRANCE", "alt": "Logo de la société CGI"}
+        }
+    },
+
+    "sopra": {
+        "logoUrl": "images/places/logo-soprasteria.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Sopra Stéria - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "Sopra Stéria - Rennes (35), FRANCE", "alt": "Logo de la société Sopra Stéria"}
+        }
+    },
+
+    "asi-brest": {
+        "logoUrl": "images/places/logo-asi.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "ASI - Brest, FRANCE", "alt": ""},
+            "fr": {"name": "ASI - Brest (29), FRANCE", "alt": "Logo de la société ASI"}
+        }
+    },
+
+    "asi-rennes": {
+        "logoUrl": "images/places/logo-asi.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "ASI - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "ASI - Rennes (35), FRANCE"}, "alt": "Logo de la société ASI"
+        }
+    },
+
+    "adventiel": {
+        "logoUrl": "images/places/logo-adventiel.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adventiel - Rennes, FRANCE", "alt": ""},
+            "fr": {"name": "Adventiel - Rennes (35), FRANCE", "alt": "Logo de la société Adventiel"}
+        }
+    },
+
+    "younup": {
+        "logoUrl": "images/places/logo-younup.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Younup - Lyon, FRANCE", "alt": ""},
+            "fr": {"name": "Younup - Lyon (69), FRANCE", "alt": "Logo de la société Younup"}
+        }
+    },
+
+    "pause-parentale": {
+        "logoUrl": "images/places/logo-pause_parentale.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "At home - Lyon, FRANCE", "alt": ""},
+            "fr": {"name": "À la maison - Lyon (69), FRANCE", "alt": "Logo représentant un parent portant son enfant"}
+        }
+    },
+
+    "youtube": {
+        "logoUrl": "images/places/logo-youtube.png",
+        "faIcon": "fa fa-video",
+        "locales": {
+            "en": {"name": "Youtube", "alt": ""},
+            "fr": {"name": "Youtube", "alt": "Lien vers une vidéo Youtube"}
+        }
+    },
+
+    "perso": {
+        "logoUrl": "images/places/logo-pause_parentale.png",
+        "faIcon": "fa fa-house",
+        "locales": {
+            "en": {"name": "Homemade", "alt": ""},
+            "fr": {"name": "Fait maison", "alt": "Image signifiant Fait maison"}
+        }
+    }
+}
