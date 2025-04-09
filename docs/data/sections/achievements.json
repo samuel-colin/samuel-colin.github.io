@@ -102,12 +102,12 @@
                 "locales": {
                     "en": {
                         "title": "Persnnal Web Site",
-                        "description": "Personal web site using Vue 3.0 and Bootstrap 5. Based on Ryan Balieiro's <a href='https://github.com/ryanbalieiro/vue-resume-template'>template</a>."
+                        "description": "Personal web site using Vue 3.0 and Bootstrap 5. Based on Ryan Balieiro's <a href='https://github.com/ryanbalieiro/vue-resume-template'>template</a>. "
                     },
 
                     "fr": {
                         "title": "Site Web Personnel",
-                        "description": "Site Web en Vue 3.0 et Bootstrap 5. Sur la base du <a href='https://github.com/ryanbalieiro/vue-resume-template'>template</a> de Ryan Balieiro."
+                        "description": "Site Web en Vue 3.0 et Bootstrap 5. Sur la base du <a href='https://github.com/ryanbalieiro/vue-resume-template'>template</a> de Ryan Balieiro. Déploiement avec Github Actions."
                     }
                 }
             },
