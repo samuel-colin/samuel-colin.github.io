@@ -6,7 +6,7 @@ on:
       - develop
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -42,7 +42,8 @@ jobs:
           git add docs
           git commit -m "Automatic Deploy"
           git push
-  merge-develop-to-main:
+
+  deploy:
     runs-on: ubuntu-latest
 
     permissions:
