@@ -4,7 +4,7 @@
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "UBO - Brest, FRANCE", "alt": ""},
-            "fr": {"name": "Université de Bretagne Occidentale - Brest (29), FRANCE", "alt": "Logo de l'UBO"}
+            "fr": {"name": "Université de Bretagne Occidentale - Brest (29), FRANCE", "alt": "Logo de UBO"}
         }
     },
 
@@ -13,7 +13,7 @@
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "University of Angers, FRANCE", "alt": ""},
-            "fr": {"name": "Univesité d'Angers (49), FRANCE", "alt": "Logo de l'université d'Angers"}
+            "fr": {"name": "Univesité d'Angers (49), FRANCE", "alt": "Logo université d'Angers"}
         }
     },
 
