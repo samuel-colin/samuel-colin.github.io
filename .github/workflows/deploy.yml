@@ -65,7 +65,7 @@ jobs:
         run: |
           git fetch origin
           git checkout main
-          git merge origin/develop
+          git merge origin/develop --allow-unrelated-histories
 
       # Étape 4 : Pousser les modifications
       - name: Push changes
