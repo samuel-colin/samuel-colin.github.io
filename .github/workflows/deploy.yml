@@ -63,7 +63,6 @@ jobs:
       # Étape 3 : Fusionner develop dans main
       - name: Merge develop into main
         run: |
-          git fetch origin
           git checkout main
           git merge origin/develop
 
