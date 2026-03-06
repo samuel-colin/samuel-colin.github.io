@@ -35,6 +35,15 @@
         }
     },
 
+    "scrumlife": {
+        "logoUrl": "images/places/logo-scrumlife.png",
+        "faIcon": "fa fa-video",
+        "locales": {
+            "en": {"name": "Scrum Life", "alt": "Scrum Life logo"},
+            "fr": {"name": "Scrum Life", "alt": "Logo de Scrum Life"}
+        }
+    },
+
     "dvpez-com": {
         "logoUrl": "images/places/logo-dvpez-com.png",
         "faIcon": "fa fa-newspaper",

@@ -66,12 +66,16 @@ export function useUtils() {
         const date = stringDate === 'now' ? new Date() : parseDate(stringDate)
         const options = { year: 'numeric', month: 'short'}
 
-        const localizedDate =  date.toLocaleString(
-            languageId || 'en',
-            options
-        )
+        if (date !== null) {
+            const localizedDate =  date.toLocaleString(
+                languageId || 'en',
+                options
+            )
 
-        return localizedDate.charAt(0).toUpperCase() + localizedDate.slice(1)
+            return localizedDate.charAt(0).toUpperCase() + localizedDate.slice(1)
+        } else {
+            return stringDate
+        }
     }
 
     /**
