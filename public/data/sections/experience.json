@@ -132,36 +132,53 @@
             }
         },
         {
-            "id": "experience_younup",
+            "id": "experience_younup_1",
             "place": "@link{places.younup}",
             "period": ["2023/01", "2024/11"],
             "locales": {
                 "en": {
                     "title": "Senior Fullstack Developer",
-                    "description": "",
-                    "tags": ["JavaJEE", "MySQL", "PHP", "Srping Framework", "Docker"]
+                    "description": "Mission for <a href='https://www.april.fr/'>April</a> client (Insurance broker) within the WAF team. Implementation of new features on the claims management application and bug fixes. Project in Agile mode. Creation of the Dockerized development and testing environment.",
+                    "tags": ["JavaJEE", "MySQL", "PHP", "Spring Framework", "Docker"]
                 },
                 "fr": {
                     "title": "Développeur Senior Fullstack",
-                    "description": "Client <a href='https://www.april.fr/'>April</a> (Courtier en assurances)",
-                    "tags": ["JavaJEE", "MySQL", "PHP", "Srping Framework", "Docker"]
+                    "description": "Mission pour le Client <a href='https://www.april.fr/'>April</a> (Courtier en assurances) au sein de l'équipe WAF. Mise en place de nouvelles fonctionnalités sur l'application de gestion des sinistres et corrections de bugs. Projet en mode Agile. Création de l'environnement de développement et de recette Dockerisé.",
+                    "tags": ["JavaJEE", "MySQL", "PHP", "Spring Framework", "Docker"]
                 }
             }
         },
         {
             "id": "experience_pause_parentale",
             "place": "@link{places.pause-parentale}",
-            "period": ["2024/12", "2027/09"],
+            "period": ["2024/12", "2026/09"],
             "locales": {
                 "en": {
                     "title": "Stay-at-home Dad",
-                    "description": "",
-                    "tags": []
+                    "description": "I am accompanying my daughter born in 2024 in the first years of her life.",
+                    "tags": ["Organization", "Planning"]
                 },
                 "fr": {
                     "title": "Père au foyer",
                     "description": "J'accompagne ma fille née en 2024 dans les premières années de sa vie.",
-                    "tags": []
+                    "tags": ["Organisation", "Plannification"]
+                }
+            }
+        },
+        {
+            "id": "experience_younup_2",
+            "place": "@link{places.younup}",
+            "period": ["2026/10"],
+            "locales": {
+                "en": {
+                    "title": "Senior Fullstack Developer",
+                    "description": "...",
+                    "tags": [""]
+                },
+                "fr": {
+                    "title": "Développeur Senior Fullstack",
+                    "description": "...",
+                    "tags": [""]
                 }
             }
         }
