@@ -55,23 +55,6 @@
                     "title": "Master en Ingénierie Informatique"
                 }
             }
-        },
-        {
-            "id": "online_course_secnum",
-            "place": "@link{places.secnum}",
-            "period": ["2020", ""],
-
-            "locales": {
-                "en": {
-                    "title": "MOOC SecNum Academy",
-                    "description": "MOOC about cybersecurity"                
-                },
-
-                "fr": {
-                    "title": "MOOC SecNum Académie",
-                    "description": "MOOC sur le thème de la cybersécurité"
-                }
-            }
         }
     ]
 }

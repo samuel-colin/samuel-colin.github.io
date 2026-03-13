@@ -39,6 +39,12 @@
                     <div class="timeline-item-content-body mt-3">
                         <p class="text-3 text-normal mb-2 mb-md-3 mb-lg-4" v-html="item['locales']['description']"/>
                         <Tags :item-class="'bg-primary'" :items="item['locales']['tags']"/>
+
+                        <!-- Link -->
+                        <a v-if="item['href']" class="text-2" target="_blank" :href="item['href']">
+                            <span>{{ data.getString('moreInfos') }}</span>
+                            <i class="fa-solid fa-arrow-up-right-dots ms-1"/>
+                        </a>
                     </div>
                 </div>
             </li>
