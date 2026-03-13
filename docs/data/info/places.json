@@ -44,6 +44,15 @@
         }
     },
 
+    "occ": {
+        "logoUrl": "images/places/logo-occ.png",
+        "faIcon": "fa fa-certificate",
+        "locales": {
+            "en": {"name": "OpenClassRooms", "alt": "OpenClassRooms logo"},
+            "fr": {"name": "OpenClassRooms", "alt": "Logo de OpenClassRooms"}
+        }
+    },
+
     "dvpez-com": {
         "logoUrl": "images/places/logo-dvpez-com.png",
         "faIcon": "fa fa-newspaper",

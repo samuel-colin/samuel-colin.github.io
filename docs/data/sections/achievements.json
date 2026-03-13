@@ -28,15 +28,6 @@
                 "en": {"title": "Achievements", "buttonLabel": "View"},
                 "fr": {"title": "Réalisations", "buttonLabel": "Voir"}
             }
-        },
-
-        {
-            "id": "certifications",
-            "faIcon": "fa-solid fa-award",
-            "locales": {
-                "en": {"title": "Certifications", "buttonLabel": "View Certification"},
-                "fr": {"title": "Certifications", "buttonLabel": "Voir la Certification"}
-            }
         }
     ],
 
@@ -68,60 +59,6 @@
                     "fr": {
                         "title": "Live LinkedIn sur l'Accessibilité Numérique",
                         "description": "Musclez l’Accessibilité Numérique de votre projet !"
-                    }
-                }
-            }
-        ],
-
-        "certifications": [
-            {
-                "id": "secnum_cert",
-                "place": "@link{places.secnum}",
-                "date": "2020/06",
-                "href": "https://secnumacademie.gouv.fr/",
-                "locales": {
-                    "en": {
-                        "title": "Cybersecurity Certification",
-                        "description": "MOOC about cybersecurity."
-                    },
-
-                    "fr": {
-                        "title": "MOOC SecNum Académie",
-                        "description": "MOOC sur le thème de la cybersécurité"
-                    }
-                }
-            },
-            {
-                "id": "scrumlife_cert",
-                "place": "@link{places.scrumlife}",
-                "date": "2025/04",
-                "href": "https://www.scrumlife.tv/formations/formations-gratuites/",
-                "locales": {
-                    "en": {
-                        "title": "The Competent Agile Leader's Guide",
-                        "description": "This training presents the fundamental principles of agility. Through videos and practical exercises adapted to the context."
-                    },
-
-                    "fr": {
-                        "title": "Le Guide du Leader Agile Compétent(e)",
-                        "description": "Cette formation présente les principes fondamentaux de l'agilité. À travers des vidéos et des exercices pratiques adaptés au contexte."
-                    }
-                }
-            },
-            {
-                "id": "scrumlife_cert",
-                "place": "@link{places.scrumlife}",
-                "date": "2025/04",
-                "href": "https://www.scrumlife.tv/formations/formations-gratuites/",
-                "locales": {
-                    "en": {
-                        "title": "Let's Break Down Scrum Certification - Niveau 1",
-                        "description": ""
-                    },
-
-                    "fr": {
-                        "title": "Certification Décortiquons Scrum - Niveau 1",
-                        "description": ""
                     }
                 }
             }

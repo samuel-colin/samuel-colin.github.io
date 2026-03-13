@@ -48,11 +48,19 @@
         },
 
         {
+            "id": "certifications",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/certifications.json",
+            "faIcon": "fa-solid fa-award"
+        },
+
+        {
             "id": "achievements",
             "categoryId": "background",
             "component": "ThreadsSection",
             "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
+            "faIcon": "fa-solid fa-newspaper"
         }
     ]
 }
