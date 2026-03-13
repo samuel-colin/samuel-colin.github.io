@@ -12,6 +12,7 @@
             "changingLanguage": "Changing Language",
             "contact": "Contact",
             "education": "Education",
+            "certifications": "Certifications",
             "email": "E-mail",
             "experience": "Experience",
             "fluent": "Fluent",
@@ -39,7 +40,8 @@
             "subject": "Subject",
             "tags": "Tags",
             "whereToFind": "Where to Find",
-            "whereToFindDescription": "${project} is available on the following platforms and services:"
+            "whereToFindDescription": "${project} is available on the following platforms and services:",
+            "moreInfos": "More Infos"
         },
 
         "fr": {
@@ -54,6 +56,7 @@
             "changingLanguage": "Changement de Langue",
             "contact": "Contact",
             "education": "Éducation",
+            "certifications": "Certifications",
             "email": "E-mail",
             "experience": "Expérience",
             "fluent": "Courant",
@@ -80,7 +83,8 @@
             "subject": "Sujet",
             "tags": "Étiquettes",
             "whereToFind": "Où le Trouver",
-            "whereToFindDescription": "${project} est disponible sur les plateformes et services suivants:"
+            "whereToFindDescription": "${project} est disponible sur les plateformes et services suivants:",
+            "moreInfos": "Plus d'infos"
         }
     }
 }
