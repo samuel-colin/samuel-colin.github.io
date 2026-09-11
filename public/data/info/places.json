@@ -53,6 +53,15 @@
         }
     },
 
+    "claude": {
+        "logoUrl": "images/places/logo-claude.png",
+        "faIcon": "fa fa-certificate",
+        "locales": {
+            "en": {"name": "Claude Academy", "alt": "Claude Academy logo"},
+            "fr": {"name": "Claude Academy", "alt": "Logo de Claude Academy"}
+        }
+    },
+
     "dvpez-com": {
         "logoUrl": "images/places/logo-dvpez-com.png",
         "faIcon": "fa fa-newspaper",

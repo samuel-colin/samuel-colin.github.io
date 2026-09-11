@@ -81,6 +81,57 @@
           "description": "Formation OpenClassrooms sur le développement avec les agents IA. Ce cours montre comment utiliser les agents IA pour automatiser des tâches, améliorer la productivité et créer des applications innovantes. Il couvre les concepts de base, les outils et les meilleures pratiques pour tirer parti de cette technologie émergente."
         }
       }
+    },
+    {
+      "id": "younup_cert",
+      "place": "@link{places.younup}",
+      "period": ["2026/08", ""],
+      "href": "",
+      "locales": {
+        "en": {
+          "title": "Augmented Developer by AI · Getting Started with GitHub Copilot",
+          "description": "Younup training on AI-augmented development. This course demonstrates how to use GitHub Copilot to enhance developer productivity by automatically generating code and providing intelligent suggestions. It covers the basic features, best practices, and tips for leveraging this powerful tool."
+        },
+
+        "fr": {
+          "title": "Développeur Augmenté par l'IA · Démarrer sur GitHub Copilot",
+          "description": "Formation Younup sur le développement augmenté par l'IA. Ce cours montre comment utiliser GitHub Copilot pour améliorer la productivité des développeurs, en générant du code automatiquement et en fournissant des suggestions intelligentes. Il couvre les fonctionnalités de base, les meilleures pratiques et les conseils pour tirer parti de cet outil puissant."
+        }
+      }
+    },
+    {
+      "id": "claude_cert",
+      "place": "@link{places.claude}",
+      "period": ["2026/09", ""],
+      "href": "https://academy.claude.com/verify/931141cbdc3660d13c53f77bd9760e0e",
+      "locales": {
+        "en": {
+          "title": "Claude Code 101",
+          "description": "Claude Academy training on Claude Code 101. This course provides an introduction to the Claude programming language, covering its syntax, data structures, and basic programming concepts. It includes hands-on exercises and examples to help learners gain practical experience in coding with Claude."
+        },
+
+        "fr": {
+          "title": "Claude Code 101",
+          "description": "Formation Claude Academy sur Claude Code 101. Ce cours fournit une introduction au langage de programmation Claude, couvrant sa syntaxe, ses structures de données et les concepts de base de la programmation. Il comprend des exercices pratiques et des exemples pour aider les apprenants à acquérir une expérience pratique en codage avec Claude."
+        }
+      }
+    },
+    {
+      "id": "claude_cert",
+      "place": "@link{places.claude}",
+      "period": ["2026/09", ""],
+      "href": "https://academy.claude.com/verify/7ed780c941568d60c54464f544ccb925",
+      "locales": {
+        "en": {
+          "title": "Introduction to Model Context Protocol",
+          "description": "Claude Academy training on the Model Context Protocol. This course explores the fundamental concepts of the Model Context Protocol, including state management, agent communication, and performance optimization. It provides practical examples and case studies to illustrate the application of the protocol in different scenarios."
+        },
+
+        "fr": {
+          "title": "Introduction to Model Context Protocol",
+          "description": "Formation Claude Academy sur le protocole de contexte des modèles. Ce cours explore les concepts fondamentaux du protocole de contexte des modèles, y compris la gestion de l'état, la communication entre les agents et l'optimisation des performances. Il fournit des exemples pratiques et des études de cas pour illustrer l'application du protocole dans différents scénarios."
+        }
+      }
     }
   ]
 }
