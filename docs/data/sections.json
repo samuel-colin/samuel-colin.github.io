@@ -40,19 +40,19 @@
         },
 
         {
-            "id": "education",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
-
-        {
             "id": "certifications",
             "categoryId": "background",
             "component": "TimelineSection",
             "jsonPath": "data/sections/certifications.json",
             "faIcon": "fa-solid fa-award"
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
         },
 
         {
