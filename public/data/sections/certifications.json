@@ -120,16 +120,16 @@
       "id": "claude_cert",
       "place": "@link{places.claude}",
       "period": ["2026/09", ""],
-      "href": "https://academy.claude.com/verify/7ed780c941568d60c54464f544ccb925",
+      "href": "https://academy.claude.com/verify/7c3253a15043e30e33c9e7559d833003",
       "locales": {
         "en": {
-          "title": "Introduction to Model Context Protocol",
-          "description": "Claude Academy training on the Model Context Protocol. This course explores the fundamental concepts of the Model Context Protocol, including state management, agent communication, and performance optimization. It provides practical examples and case studies to illustrate the application of the protocol in different scenarios."
+          "title": "Claude Code in action",
+          "description": "Claude Academy training on the model context protocol. This course explores the fundamental concepts of the model context protocol, including state management, agent communication, and performance optimization. It provides practical examples and case studies to illustrate the application of the protocol in various scenarios."
         },
 
         "fr": {
-          "title": "Introduction to Model Context Protocol",
-          "description": "Formation Claude Academy sur le protocole de contexte des modèles. Ce cours explore les concepts fondamentaux du protocole de contexte des modèles, y compris la gestion de l'état, la communication entre les agents et l'optimisation des performances. Il fournit des exemples pratiques et des études de cas pour illustrer l'application du protocole dans différents scénarios."
+          "title": "Claude Code in action",
+          "description": "Formation Claude Academy sur le protocole de contexte du modèle. Ce cours explore les concepts fondamentaux du protocole de contexte du modèle, y compris la gestion de l'état, la communication entre agents et l'optimisation des performances. Il fournit des exemples pratiques et des études de cas pour illustrer l'application du protocole dans divers scénarios."  
         }
       }
     }

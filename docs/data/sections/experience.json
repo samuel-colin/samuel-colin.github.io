@@ -172,13 +172,13 @@
             "locales": {
                 "en": {
                     "title": "Senior Fullstack Developer",
-                    "description": "...",
-                    "tags": [""]
+                    "description": "Mission for <a href='https://www.april.fr/'>April</a> client (Insurance broker) within the April Digital team. ",
+                    "tags": ["Java JEE", "Spring Reactive", "Angular 25", "MongoDB"]
                 },
                 "fr": {
                     "title": "Développeur Senior Fullstack",
-                    "description": "...",
-                    "tags": [""]
+                    "description": "Mission pour le Client <a href='https://www.april.fr/'>April</a> (Courtier en assurances) au sein de l'équipe April Digital. ",
+                    "tags": ["Java JEE", "Spring Reactive", "Angular 25", "MongoDB"]
                 }
             }
         }
